@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Unnat111
 - 👀 I’m interested in Designing websites
-- 🌱 I’m currently learning web design
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web designing
 - 📫 How to reach me -- unnatkrchaubey@gmail.com
 
 <!---
